@@ -1,4 +1,4 @@
-# Heterogeneity Scripts
+# Functionally Distinct Pomc-Expressing Neuron Subpopulations in Hypothalamus Revealed by Intersectional Targeting
 
 3D Isosurface density visualization and statistical analysis.
 
